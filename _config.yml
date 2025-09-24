@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Getting Started: "https://github.com/tbajpai-tech/tbajpai-tech.github.io/blob/master/getstarted"
+    - Getting Started: "getstarted"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
