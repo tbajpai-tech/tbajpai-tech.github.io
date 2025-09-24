@@ -254,8 +254,8 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 
 
-.gs-section-02 h4 { 
-     color: red }
+.gs-section-02 h3 { 
+     color: blue }
 
 .gs-section-02 p {
      font-size: 32px;
@@ -263,8 +263,8 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 
 
-.gs-section-03 h2 { 
-     color: red }
+.gs-section-03 h3 { 
+     color: green }
 
 .gs-section-03 p {
      font-size: 34px;
