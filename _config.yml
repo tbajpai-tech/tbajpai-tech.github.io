@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Tanu's World
 
 # Your name to show in the footer
-author: Some Person
+author: Tanu Bajpai
 
 # --- List of links in the navigation bar --- #
 
@@ -39,12 +39,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "tanuspecial@gmail.com"
+  facebook: tanubajpai25
+  github: tanubajpai
+  twitter: tanubajpai95
+  patreon: tanubajoai25
+  youtube: c/tanubajpai95
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -101,6 +101,7 @@ post_search: true
 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
